@@ -1,0 +1,2 @@
+# pAndC
+permutation combination calculator
